@@ -1,6 +1,6 @@
 ## C# Telegram Bot
 
-Uses GOOGLE API to get search results by query in json typed by user.
+Uses GOOGLE API to get search results by query in json.
 
 Autocreates MSSQL Database. Saves results for 12 hours.
 
