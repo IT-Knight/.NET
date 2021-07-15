@@ -1,0 +1,9 @@
+App.config
+Database.mdf
+Database_log.ldf
+Dockerfile
+/bin
+/.vs
+/.vscode
+/obj
+/Properties
