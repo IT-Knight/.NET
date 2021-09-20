@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ndriuma\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ndriuma\\.nuget\\packages"
+    ]
+  }
+}
